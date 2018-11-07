@@ -18,7 +18,7 @@ Example workspaces with pnp:
 
 ```sh
 # bootstrap
-cd ./without-pnp
+cd ./with-pnp
 yarn
 
 cd ./packages/package-a
