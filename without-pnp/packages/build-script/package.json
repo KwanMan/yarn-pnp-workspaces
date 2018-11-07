@@ -1,0 +1,9 @@
+{
+  "name": "build-script",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "build-script": "./build-script.js"
+  }
+}
